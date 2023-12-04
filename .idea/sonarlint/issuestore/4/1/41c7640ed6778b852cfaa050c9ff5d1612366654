@@ -1,0 +1,15 @@
+
+T
+java:S3958B"2Refactor the code so this stream pipeline is used.(Êá–³ÿÿÿÿÿ8™ßÊœÃ1
+]	java:S125"<This block of commented-out lines of code should be removed.(•ïİıÿÿÿÿ8ßÊœÃ1
+G	java:S1062"+Replace this use of System.out by a logger.(¬ãÅ´8¡ßÊœÃ1
+G	java:S1068"+Replace this use of System.out by a logger.(ì§©ˆ8£ßÊœÃ1
+W
+java:S1612;":Replace this lambda with method reference 'Employee::new'.(Ü‡ã©8£ßÊœÃ1
+š
+java:S5329E"xReplace this method reference by a lambda to explicitly show the usage of ArrayList(int initialCapacity) or ArrayList().(â–òÁıÿÿÿÿ8¦ßÊœÃ1
+G	java:S106L"+Replace this use of System.out by a logger.(¼¡¨ò8§ßÊœÃ1
+Z
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8¨ßÊœÃ1
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8¨ßÊœÃ1

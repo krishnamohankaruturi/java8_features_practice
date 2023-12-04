@@ -1,0 +1,10 @@
+
+_
+java:S2184"CCast one of the operands of this subtraction operation to a "long".(—ˆðy8Ã€ ¤Ã1
+T
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(ÒÊûø8Ñ€ ¤Ã1
+Y
+java:S1612"<Replace this lambda with method reference 'Entry::getValue'.(ÒÊûø8Ý€ ¤Ã1
+L	java:S106"+Replace this use of System.out by a logger.(¶ìïæüÿÿÿÿ8ß€ ¤Ã1
+G	java:S106"+Replace this use of System.out by a logger.(¿½ÊÞ8á€ ¤Ã1
+G	java:S106*"+Replace this use of System.out by a logger.(°Á8®Á¦¤Ã1
