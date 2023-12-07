@@ -11,6 +11,7 @@ public class JoinString {
         String results = String.join("_",nos);
         String results2 = nos.stream().collect(Collectors.joining("-"));
         System.out.println(results2);
+        i
 
          // skip and limit example
         IntStream.rangeClosed(1,10).skip(1).limit(8).forEach(System.out::println);
