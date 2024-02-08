@@ -20,12 +20,10 @@ public class DuplicateAsKey {
                 .collect(Collectors.toMap(Notes::getBookNo, Notes::getName, (oldVal, newVal) -> newVal, LinkedHashMap::new));
         System.out.println(map);
 
-        Optional.ofNullable(noteLst)
+     /*   Optional.ofNullable(noteLst)
                 .orElseGet(Collections::emptyList)
                 .stream().filter(Objects::nonNull)
                 .map(note -> Notes::getName)
-                .forEach(System.out::println);
-                .
-
+                .forEach(System.out::println);*/
     }
 }

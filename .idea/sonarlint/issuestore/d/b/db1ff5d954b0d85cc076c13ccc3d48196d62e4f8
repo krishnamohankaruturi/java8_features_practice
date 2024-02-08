@@ -1,6 +1,6 @@
 
 T
-java:S3655	"7Call "Optional#isPresent()" before accessing the value.(ÿ¸¯Í8±–Ì Ã1
-L	java:S106"+Replace this use of System.out by a logger.(Ñ¿»·ùÿÿÿÿ8‡»Î Ã1
+java:S3655	"7Call "Optional#isPresent()" before accessing the value.(ÿ¸¯Í8åòÊ½Ø1
+L	java:S106"+Replace this use of System.out by a logger.(Ñ¿»·ùÿÿÿÿ8óòÊ½Ø1
 Z
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Æ–Ì Ã1
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8óòÊ½Ø1

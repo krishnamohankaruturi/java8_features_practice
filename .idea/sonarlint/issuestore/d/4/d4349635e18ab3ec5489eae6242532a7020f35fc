@@ -1,0 +1,8 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8¾Ä£¾Ø1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¿Ä£¾Ø1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ÀÄ£¾Ø1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÀÄ£¾Ø1

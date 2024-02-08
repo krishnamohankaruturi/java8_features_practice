@@ -1,5 +1,5 @@
 
 Y
 java:S1612
-"=Replace this lambda with method reference 'Object::toString'.(ÖÑè)8ó©¿°√1
-G	java:S106"+Replace this use of System.out by a logger.(”‰≤‘8¡Éƒ°√1
+"=Replace this lambda with method reference 'Object::toString'.(ÖÑè)8Ü’£æÿ1
+G	java:S106"+Replace this use of System.out by a logger.(”‰≤‘8å’£æÿ1
